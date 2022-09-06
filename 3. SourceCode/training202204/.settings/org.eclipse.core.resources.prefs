@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/views/EventDetail.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/InsertEvent.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/index.jsp=UTF-8
+encoding//src/controller/EventsController.java=UTF-8

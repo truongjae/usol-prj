@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="C:/BTL_Nhom3/3. SourceCode/training202204/WebContent/WEB-INF/lib/sqljdbc42.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
